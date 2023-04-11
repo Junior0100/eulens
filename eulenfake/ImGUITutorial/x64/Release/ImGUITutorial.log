@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ilyes\Desktop\programar\ImGUITutorial-master\ImGUITutorial\Texteditor.cpp(11,10): fatal  error C1083: Cannot open include file: 'imgui.h': No such file or directory
+  Texteditor.cpp
+C:\Users\ilyes\Desktop\programar\ImGUITutorial-master\ImGUITutorial\Texteditor.cpp(11,10): fatal  error C1083: Cannot open include file: 'imgui.h': No such file or directory
